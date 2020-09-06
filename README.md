@@ -1,0 +1,2 @@
+# blog-gyakorl-
+Elrendezés gyakorlása
